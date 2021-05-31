@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet_console_example": {
+      "commandName": "Project",
+      "commandLineArgs": "Bruce"
+    }
+  }
+}
